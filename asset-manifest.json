@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Travel/static/css/main.828d63c2.css",
-    "main.js": "/React-Travel/static/js/main.a5434eb1.js",
+    "main.js": "/React-Travel/static/js/main.dc00fc91.js",
     "static/js/787.c1bca066.chunk.js": "/React-Travel/static/js/787.c1bca066.chunk.js",
     "static/media/isabella-juskova--XwQFmuiMts-unsplash.jpg": "/React-Travel/static/media/isabella-juskova--XwQFmuiMts-unsplash.f17cf135231ad2905eb0.jpg",
     "static/media/thomas-serer-r-xKieMqL34-unsplash.jpg": "/React-Travel/static/media/thomas-serer-r-xKieMqL34-unsplash.a9d6d247fc22a6d950a2.jpg",
@@ -12,11 +12,11 @@
     "static/media/53.jpeg": "/React-Travel/static/media/53.792af473bb7b8eaf7162.jpeg",
     "index.html": "/React-Travel/index.html",
     "main.828d63c2.css.map": "/React-Travel/static/css/main.828d63c2.css.map",
-    "main.a5434eb1.js.map": "/React-Travel/static/js/main.a5434eb1.js.map",
+    "main.dc00fc91.js.map": "/React-Travel/static/js/main.dc00fc91.js.map",
     "787.c1bca066.chunk.js.map": "/React-Travel/static/js/787.c1bca066.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.828d63c2.css",
-    "static/js/main.a5434eb1.js"
+    "static/js/main.dc00fc91.js"
   ]
 }
