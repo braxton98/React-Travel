@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/braxton98/React-Travel/static/css/main.68afdd68.css",
-    "main.js": "/braxton98/React-Travel/static/js/main.b9fb37e5.js",
+    "main.js": "/braxton98/React-Travel/static/js/main.53837c59.js",
     "static/js/787.c1bca066.chunk.js": "/braxton98/React-Travel/static/js/787.c1bca066.chunk.js",
     "static/media/isabella-juskova--XwQFmuiMts-unsplash.jpg": "/braxton98/React-Travel/static/media/isabella-juskova--XwQFmuiMts-unsplash.f17cf135231ad2905eb0.jpg",
     "static/media/thomas-serer-r-xKieMqL34-unsplash.jpg": "/braxton98/React-Travel/static/media/thomas-serer-r-xKieMqL34-unsplash.a9d6d247fc22a6d950a2.jpg",
@@ -12,11 +12,11 @@
     "static/media/53.jpeg": "/braxton98/React-Travel/static/media/53.792af473bb7b8eaf7162.jpeg",
     "index.html": "/braxton98/React-Travel/index.html",
     "main.68afdd68.css.map": "/braxton98/React-Travel/static/css/main.68afdd68.css.map",
-    "main.b9fb37e5.js.map": "/braxton98/React-Travel/static/js/main.b9fb37e5.js.map",
+    "main.53837c59.js.map": "/braxton98/React-Travel/static/js/main.53837c59.js.map",
     "787.c1bca066.chunk.js.map": "/braxton98/React-Travel/static/js/787.c1bca066.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68afdd68.css",
-    "static/js/main.b9fb37e5.js"
+    "static/js/main.53837c59.js"
   ]
 }
